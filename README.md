@@ -1,6 +1,6 @@
 # Pitch Anything — Claude Code Skills
 
-Three skills for [Claude Code](https://claude.ai/code) based on [*Pitch Anything*](https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854) by Oren Klaff. Build pitches, control frames, and audit your messaging — all inside Claude Code.
+Three skills for [Claude Code](https://claude.ai/code) based on [*Pitch Anything*](https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854) by Oren Klaff. 
 
 ## What You Get
 
@@ -50,4 +50,4 @@ Just talk to Claude naturally. The skills kick in automatically when you ask abo
 
 ## Credit
 
-Framework and methodology from [*Pitch Anything*](https://www.amazon.com/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854) by Oren Klaff.
+These skills are based on frameworks from Pitch Anything by Oren Klaff. The underlying methodology is his work. This repo packages those concepts into a skill format for use with Claude. Buy the book, it's worth a read.
